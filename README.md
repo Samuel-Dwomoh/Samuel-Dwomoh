@@ -36,3 +36,5 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-100%25-4c1)](https://www.freecodecamp.org)
