@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Python Enthusiast | Blockchain Explorer | Student Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/bL67R8Pz1ekAAAAd/scaler-create-impact.gif">
 
-<p align="left"> <a href="https://twitter.com/Sam_tuga_1" target="blank"><img src="https://img.shields.io/twitter/follow/sammy_tuga?logo=twitter&style=for-the-badge" alt="sammy_tuga" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sam_tuga_1" target="blank"><img src="https://img.shields.io/twitter/follow/sammy_tuga?logo=twitter&style=for-the-badge" alt="sammy_tuga" /></a> </p>
 
 - 🔭 I’m currently working on **a university marketplace platform to help students sell products online.**
 
