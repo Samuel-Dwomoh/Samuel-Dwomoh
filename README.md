@@ -36,5 +36,3 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![freeCodeCamp](https://www.freecodecamp.org)](https://www.freecodecamp.org/certification/fcc6673fafd-4b6a-413c-ba77-5e953e5416b8/responsive-web-design)
