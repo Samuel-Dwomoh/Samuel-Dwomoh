@@ -33,3 +33,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-dwomoh&show_icons=true&locale=en&layout=compact" alt="samuel-dwomoh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-dwomoh&" alt="samuel-dwomoh" /></p>
+
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
