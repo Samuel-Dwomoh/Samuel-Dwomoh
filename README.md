@@ -1,4 +1,4 @@
-![My Profile Banner](https://github.blog/wp-content/uploads/2020/12/wallpaper_footer_4KUHD_16_9.png)
+![My Profile Banner](https://images.squarespace-cdn.com/content/v1/5acad3b35cfd7949f06ae513/1690045933689-QQW0JT99Y06QNPKCWSLH/Github-AcademicWall-DocReed-V8-sm.jpg)
 <h1 align="center">Hi 👋, I'm Samuel Dwomoh</h1>
 <h3 align="center">Aspiring Full Stack Developer | Python Enthusiast | Blockchain Explorer | Student Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/bL67R8Pz1ekAAAAd/scaler-create-impact.gif">
