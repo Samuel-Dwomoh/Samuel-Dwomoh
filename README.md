@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm aspiring to be a full stack developer with AI at my core**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sammy_tuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammy_tuga" height="30" width="40" /></a>
 <a href="https://kaggle.com/samuel dwomoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samuel dwomoh" height="30" width="40" /></a>
