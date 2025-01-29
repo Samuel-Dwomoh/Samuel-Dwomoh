@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **mastering data analysis and machine learning with Python, improving my UI/UX skills.**
 
-- 💬 Ask me about **React, Vue, Angular, Javascript, Python, C++**
+- 💬 Ask me about ** React, Vue, Angular, Javascript, Python, C++**
 
 - 📫 How to reach me **sdwomoh418@gmail.com**
 
