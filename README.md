@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a university marketplace platform to help students sell products online.**
 
-- 🌱 I’m currently learning **Python, React Native, Javascript,   C++.**
+- 🌱 I’m currently learning **Python, React Native, Javascript, C++.**
 
 - 👯 I’m looking to collaborate on **blockchain projects, especially ones that empower communities or involve innovative tech ideas.**
 
