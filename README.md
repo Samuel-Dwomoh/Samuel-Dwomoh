@@ -15,7 +15,7 @@
 
 - 💬 Ask me about ** React, Vue, Angular, Javascript, Python, C++**
 
-- 📫 How to reach me **sdwomoh418@gmail.com**  
+- 📫 How to reach me **sdwomoh418@gmail.com**
 
 - ⚡ Fun fact **I'm aspiring to be a full stack developer with AI at my core**
 
